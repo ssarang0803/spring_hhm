@@ -1,8 +1,5 @@
 package kr.board.controller;
 
-import java.util.List;
-
-import javax.jws.WebParam.Mode;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -19,7 +16,6 @@ import kr.board.mapper.BoardMapper;
 
 @Controller
 public class BoardController { // new BoardController();
-
 
 	@RequestMapping("/")
 	public String main() {

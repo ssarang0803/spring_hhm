@@ -62,21 +62,6 @@ public class BoardController {	// new BoardController();
 		mapper.boardUpdate(vo); // 수정		
 		return "redirect:/boardList.do";
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		
 }
  
