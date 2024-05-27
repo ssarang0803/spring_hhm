@@ -2,8 +2,6 @@ package kr.board.controller;
 
 import java.util.List;
 
-import javax.jws.WebParam.Mode;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
